@@ -1,5 +1,8 @@
 # Bike Sales Data Analysis Using Excel
 
+<img width="1227" height="714" alt="dashboard" src="https://github.com/user-attachments/assets/551f4165-1e22-4b10-944d-b1db68b43dd5" />
+
+
 ## Project Overview
 
 This project analyzes bike purchase behavior using Microsoft Excel. The workbook includes raw customer data, a cleaned working sheet, pivot-table analysis, and a dashboard designed to explore customer characteristics associated with bike purchases.
