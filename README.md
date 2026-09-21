@@ -49,6 +49,22 @@ The project analyzes:
 
 ## Dashboard
 
+The dashboard summarizes the main analysis using Excel charts.
+
+![Bike Sales Dashboard](./images/dashboard.png)
+
+## Pivot Table Analysis
+
+The project uses pivot tables to summarize purchase behavior by income, commute distance, and age bracket.
+
+![Pivot Table Analysis](./images/pivot-analysis.png)
+
+## Raw Data Preview
+
+The workbook starts with the customer-level source data used for the analysis.
+
+![Raw Data Preview](./images/raw-data-preview.png)
+
 The Excel dashboard contains visualizations for:
 
 - Average income by bike-purchase status and gender
