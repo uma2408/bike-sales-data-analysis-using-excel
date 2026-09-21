@@ -1,6 +1,8 @@
 # Bike Sales Data Analysis Using Excel
 
-<img width="1227" height="714" alt="dashboard" src="https://github.com/user-attachments/assets/551f4165-1e22-4b10-944d-b1db68b43dd5" />
+## Project Demo
+
+🎥 [Watch the Excel Dashboard Demo](./video/dashboard-demo.mp4)
 
 
 ## Project Overview
